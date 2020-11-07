@@ -18,4 +18,4 @@ In this project, I will use arduino to control the blink of 8 LED with different
  
  LED 8      ------ 777ms    --------     888ms
  
- 
+Refer to this link for coding explaination with demonstration:(Currently editing the video. Please look for temporary video in the Project File folder)
