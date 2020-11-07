@@ -2,7 +2,7 @@
 In this project, I will use arduino to control the blink of 8 LED with different ON and OFF time.
 
              ON TIME       OFF TIME
- LED 1             781ms             515ms
+ LED 1      ----  781ms   ----       515ms
  
  LED 2             2014ms            1348ms
  
